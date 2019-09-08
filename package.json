@@ -1,6 +1,6 @@
 {
   "name": "mm_statics",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "这是超级美眉statics函数模块，用于web服务端statics缓存",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "koa-send": "^5.0.0",
     "mm_cachebase": "^1.2.2",
     "mm_es6_to_amd": "^1.2.2",
-    "mm_expand": "^1.2.2"
+    "mm_expand": "^1.2.3"
   },
   "devDependencies": {}
 }
