@@ -1,4 +1,4 @@
-const CacheBase = require('./index.js').CacheBase;
+const CacheBase = require('./index.js');
 
 async function test() {
 	var bl, num, arr = [];
