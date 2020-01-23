@@ -70,7 +70,7 @@ function statics(root, config, es6_to_amd) {
 			// 是否需要转换
 			var bl = false;
 			var lt = this.es6_to_amd.files;
-			const len = lt.length;
+			var len = lt.length;
 			for (var i = 0; i < len; i++) {
 				if (path.endsWith(lt[i])) {
 					bl = true;
