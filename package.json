@@ -1,6 +1,6 @@
 {
   "name": "mm_statics",
-  "version": "1.3.3",
+  "version": "1.3.6",
   "description": "这是超级美眉statics函数模块，用于web服务端statics缓存",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,8 @@
   "homepage": "https://github.com/qiuwenwu/mm_statics#readme",
   "dependencies": {
     "koa-send": "^5.0.0",
-    "mm_cachebase": "^1.3.2",
-    "mm_es6_to_amd": "^1.3.0"
+    "mm_cachebase": "^1.3.3",
+    "mm_es6_to_amd": "^1.3.1"
   },
   "devDependencies": {}
 }

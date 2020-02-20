@@ -114,7 +114,6 @@ function statics(root, config, es6_to_amd) {
 		}
 	}
 
-	var $this = this;
 	/**
 	 * 执行静态文件处理
 	 * @method run
