@@ -34,8 +34,8 @@ function statics(root, config, es6_to_amd) {
 		hidden: false,
 		format: false,
 		extensions: false,
-		brotli: true,
-		gzip: true,
+		brotli: false,
+		gzip: false,
 		root: root ? root : './static'
 	};
 
